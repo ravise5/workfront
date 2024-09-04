@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/17LSiMZC77N8tCJRW45TnHHGcG8V3SLG_
+  /:
+    url: https://author-p139852-e1420611.adobeaemcloud.com/bin/franklin.delivery/ravise5/ue-test/main
+    type: "markup"
+    suffix: ".html"
